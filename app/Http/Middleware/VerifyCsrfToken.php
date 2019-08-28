@@ -20,5 +20,6 @@ class VerifyCsrfToken extends Middleware
      */
     protected $except = [
         //
+        'http://restdemo.globalbolo.com/api/*',
     ];
 }
