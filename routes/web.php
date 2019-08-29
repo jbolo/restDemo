@@ -17,4 +17,5 @@ Route::get('/', function () {
 
 Route::group(['prefix'=>'api'],function(){
     Route::post('alumnos', 'AlumnoController@crearAlumno');
+    Route::post('alumnos/notificaaprobacion','AlumnoController@notificaAprobacion');
 });

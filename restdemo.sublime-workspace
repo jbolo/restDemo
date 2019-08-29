@@ -1,0 +1,521 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sch",
+				"schedule_datetime"
+			],
+			[
+				"rece",
+				"receiver_id"
+			],
+			[
+				"for",
+				"foreach\tblade-foreach"
+			],
+			[
+				"fo",
+				"foreach\tblade-foreach"
+			],
+			[
+				"teat",
+				"textarea\tTag"
+			],
+			[
+				"fore",
+				"foreach\tforeach …"
+			],
+			[
+				"msis",
+				"msisdn"
+			],
+			[
+				"msisdn",
+				"msisdn_position"
+			],
+			[
+				"foreac",
+				"foreach\tforeach …"
+			],
+			[
+				"foreach",
+				"foreach\tforeach …"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"deb",
+				"debugger"
+			],
+			[
+				"att",
+				"attr"
+			],
+			[
+				"btn",
+				"btn-sm"
+			],
+			[
+				"file",
+				"filesize"
+			],
+			[
+				"is_n",
+				"is_null"
+			],
+			[
+				"blackl",
+				"blacklist"
+			],
+			[
+				"meth",
+				"method\tAttr"
+			],
+			[
+				"data_se",
+				"data_selected"
+			],
+			[
+				"data",
+				"data_send"
+			],
+			[
+				"me",
+				"method\tAttr"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"Black",
+				"blacklist"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"prnt",
+				"print_r"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/misapp/Personal/Dropbox/Workspaces/incubating-netbeans-10.0/sunatsoap/billService.wsdl",
+		"/misapp/Personal/Dropbox/Workspaces/incubating-netbeans-10.0/sunatsoap/billService.ns1.wsdl",
+		"/misapp/Personal/Dropbox/Workspaces/incubating-netbeans-10.0/sunatsoap/billService.ns2.wsdl",
+		"/misapp/Personal/Dropbox/Workspaces/incubating-netbeans-10.0/sunatsoap/billService?ns1.wsdl",
+		"/misapp/Personal/Dropbox/Workspaces/incubating-netbeans-10.0/sunatsoap/billService?wsdl",
+		"/misapp/Personal/Dropbox/Workspaces/incubating-netbeans-10.0/SMSContact/resources/views/modules/contactgroup/index.blade.php",
+		"/misapp/Personal/Dropbox/Workspaces/incubating-netbeans-10.0/SMSContact/resources/views/modules/sendsms/index.blade.php",
+		"/misapp/Personal/Dropbox/Workspaces/incubating-netbeans-10.0/SMSContact/app/Http/Controllers/SendSmsController.php",
+		"/misapp/Personal/Dropbox/Workspaces/incubating-netbeans-10.0/SMSContact/config/queue.php",
+		"/misapp/Personal/Dropbox/Workspaces/incubating-netbeans-10.0/SMSContact/routes/web.php",
+		"/misapp/Personal/Dropbox/Workspaces/incubating-netbeans-10.0/SMSContact/app/Jobs/ProcessSendSms.php",
+		"/misapp/Personal/Dropbox/Workspaces/incubating-netbeans-10.0/SMSContact/PENDIENTES",
+		"/misapp/Personal/Dropbox/Workspaces/incubating-netbeans-10.0/SMSContact/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php",
+		"/misapp/Personal/Dropbox/Workspaces/incubating-netbeans-10.0/SMSContact/vendor/laravel/framework/src/Illuminate/Redis/Connections/Connection.php",
+		"/misapp/Personal/Dropbox/Workspaces/incubating-netbeans-10.0/SMSContact/resources/views/modules/smstemplate/index.blade.php",
+		"/misapp/Personal/Dropbox/Workspaces/incubating-netbeans-10.0/SMSContact/resources/views/modules/extrafield/index.blade.php",
+		"/misapp/Personal/Dropbox/Workspaces/incubating-netbeans-10.0/SMSContact/resources/views/general/layouts/main.blade.php",
+		"/misapp/Personal/Dropbox/Workspaces/incubating-netbeans-10.0/SMSContact/public/js/tagify.js",
+		"/misapp/Personal/Dropbox/Workspaces/incubating-netbeans-10.0/SMSContact/resources/views/modules/contactgroup/getcontactgroupbyid.blade.php",
+		"/misapp/Personal/Dropbox/Workspaces/incubating-netbeans-10.0/SMSContact/resources/views/modules/blacklist/index.blade.php",
+		"/misapp/Personal/Dropbox/Workspaces/incubating-netbeans-10.0/SMSContact/resources/views/modules/contact/index.blade.php",
+		"/misapp/Personal/Dropbox/Workspaces/incubating-netbeans-10.0/SMSContact/resources/views/general/layouts/sidebar.blade.php",
+		"/misapp/Personal/Dropbox/Workspaces/incubating-netbeans-10.0/SMSContact/resources/views/modules/contact/getcontactbyid.blade.php",
+		"/misapp/Personal/Dropbox/Workspaces/incubating-netbeans-10.0/SMSContact/database/migrations/2019_06_20_072405_crear_tabla_sendsms_senders.php",
+		"/misapp/Personal/Dropbox/Workspaces/incubating-netbeans-10.0/SMSContact/database/migrations/2019_06_20_072436_crear_tabla_sendsms_receivers.php",
+		"/misapp/Personal/Dropbox/Workspaces/incubating-netbeans-10.0/SMSContact/database/seeds/DatabaseSeeder.php",
+		"/misapp/Personal/Dropbox/Workspaces/incubating-netbeans-10.0/SMSContact/database/migrations/2019_06_17_224656_crear_tabla_senders.php",
+		"/misapp/Personal/Dropbox/Workspaces/incubating-netbeans-10.0/SMSContact/app/SendsmsSender.php",
+		"/misapp/Personal/Dropbox/Workspaces/incubating-netbeans-10.0/SMSContact/database/migrations/2019_06_20_073440_crear_tabla_sendsms_raws.php",
+		"/misapp/Personal/Dropbox/Workspaces/incubating-netbeans-10.0/SMSContact/app/SendsmsRaw.php",
+		"/misapp/Personal/Dropbox/Workspaces/incubating-netbeans-10.0/SMSContact/app/SendsmsReceiver.php",
+		"/misapp/Personal/Dropbox/Workspaces/incubating-netbeans-10.0/SMSContact/app/Http/Controllers/SmsTemplateController.php",
+		"/misapp/Personal/Dropbox/Workspaces/incubating-netbeans-10.0/SMSContact/database/migrations/2019_06_20_070115_crear_tabla_process_smss.php",
+		"/misapp/Personal/Dropbox/Workspaces/incubating-netbeans-10.0/SMSContact/.env",
+		"/misapp/Personal/Dropbox/Workspaces/incubating-netbeans-10.0/SMSContact/resources/views/modules/smstemplate/getsmstemplatebyid.blade.php",
+		"/misapp/Personal/Dropbox/Workspaces/incubating-netbeans-10.0/SMSContact/app/Http/Controllers/ContactGroupController.php",
+		"/misapp/Personal/Dropbox/Workspaces/incubating-netbeans-10.0/SMSContact/database/migrations/2019_06_17_280140_crear_tabla_sms_templates.php",
+		"/misapp/Personal/Dropbox/Workspaces/incubating-netbeans-10.0/SMSContact/public/css/tagify.css",
+		"/misapp/Personal/Dropbox/Workspaces/incubating-netbeans-10.0/SMSContact/app/ContactField.php",
+		"/misapp/Personal/Dropbox/Workspaces/incubating-netbeans-10.0/SMSContact/app/SmsTemplate.php",
+		"/misapp/Personal/Dropbox/Workspaces/incubating-netbeans-10.0/SMSContact/app/Sender.php",
+		"/misapp/Personal/Dropbox/Workspaces/incubating-netbeans-10.0/SMSContact/app/Http/Controllers/ContactController.php",
+		"/misapp/Personal/Dropbox/Workspaces/incubating-netbeans-10.0/SMSContact/database/migrations/2019_06_15_180140_crear_tabla_sms_templates.php",
+		"/misapp/Personal/Dropbox/Workspaces/incubating-netbeans-10.0/SMSContact/database/migrations/2019_06_15_181146_crear_tabla_contact_field_sms_template.php",
+		"/misapp/Personal/Dropbox/Workspaces/incubating-netbeans-10.0/SMSContact/database/migrations/2019_04_04_042408_crear_tabla_contacts.php",
+		"/misapp/Personal/Dropbox/Workspaces/incubating-netbeans-10.0/SMSContact/database/migrations/2019_04_03_070943_crear_tabla_contact_groups.php",
+		"/misapp/Personal/Dropbox/Workspaces/incubating-netbeans-10.0/SMSContact/resources/views/modules/contact/getcontactbyid.blade",
+		"/misapp/Personal/Dropbox/Workspaces/incubating-netbeans-10.0/SMSContact/app/ContactGroup.php",
+		"/misapp/Personal/Dropbox/Workspaces/incubating-netbeans-10.0/SMSContact/app/Contact.php",
+		"/misapp/Personal/Dropbox/Workspaces/incubating-netbeans-10.0/SMSContact/app/Helper.php",
+		"/misapp/Personal/Dropbox/Workspaces/incubating-netbeans-10.0/SMSContact/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php",
+		"/misapp/Personal/Dropbox/Workspaces/incubating-netbeans-10.0/SMSContact/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php",
+		"/misapp/Personal/Dropbox/Workspaces/incubating-netbeans-10.0/SMSContact/database/migrations/2019_05_27_042908_crear_tabla_contact_contact_group.php",
+		"/home/jonathan/Downloads/group_fields.csv",
+		"/misapp/Personal/Dropbox/Workspaces/incubating-netbeans-10.0/SMSContact/app/Http/Controllers/BlackListController.php",
+		"/home/jonathan/Downloads/group.csv",
+		"/misapp/Personal/Dropbox/Workspaces/incubating-netbeans-10.0/SMSContact/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/misapp/Personal/Dropbox/Workspaces/incubating-netbeans-10.0/SMSContact/app/Http/Controllers/ExtraFieldController.php",
+		"/misapp/Personal/Dropbox/Workspaces/incubating-netbeans-10.0/SMSContact/database/migrations/2019_04_01_043954_crear_tabla_contact_fields.php",
+		"/home/jonathan/Downloads/Admin/forms-upload.html",
+		"/misapp/Personal/Dropbox/Workspaces/netbeans8.2/PeruLinuxSMS/resources/views/site/sendsms/index.blade.php",
+		"/misapp/Personal/Dropbox/Workspaces/incubating-netbeans-10.0/SMSContact/resources/views/general/layouts/navigation.blade.php",
+		"/misapp/Personal/Dropbox/Workspaces/incubating-netbeans-10.0/SMSContact/database/migrations/2019_05_30_071300_crear_tabla_process_csvs.php",
+		"/misapp/Personal/Dropbox/Workspaces/incubating-netbeans-10.0/SMSContact/config/view.php",
+		"/misapp/Personal/Dropbox/Workspaces/incubating-netbeans-10.0/SMSContact/database/migrations/2019_04_18_193340_crear_tabla_contact_field_contact_group.php",
+		"/home/jonathan/Downloads/Admin/forms-validation.html",
+		"/misapp/Personal/Dropbox/Workspaces/incubating-netbeans-10.0/SMSContact/database/migrations/2019_04_18_193340_crear_tabla_contact_fields_contact_groups.php",
+		"/home/jonathan/Downloads/Admin/forms-select2.html",
+		"/misapp/Personal/Dropbox/Workspaces/incubating-netbeans-10.0/SMSContact/database/seeds/TablaContactFieldSeeder.php",
+		"/misapp/Personal/Dropbox/Workspaces/incubating-netbeans-10.0/SMSContact/vendor/maatwebsite/excel/src/Concerns/FromView.php",
+		"/misapp/Personal/Dropbox/Workspaces/incubating-netbeans-10.0/SMSContact/vendor/laravel/framework/src/Illuminate/View/View.php",
+		"/misapp/Personal/Dropbox/Workspaces/incubating-netbeans-10.0/SMSContact/public/css/admin.css",
+		"/misapp/Personal/Dropbox/Workspaces/incubating-netbeans-10.0/SMSContact/app/Extrafield.php",
+		"/misapp/Personal/Dropbox/Workspaces/incubating-netbeans-10.0/SMSContact/database/migrations/2019_03_20_223213_crear_tabla_blacklists.php",
+		"/misapp/Personal/Dropbox/Workspaces/incubating-netbeans-10.0/SMSContact/database/migrations/2019_04_01_043954_crear_tabla_extrafields.php",
+		"/misapp/Personal/Dropbox/Workspaces/incubating-netbeans-10.0/SMSContact/database/migrations/2019_04_01_043806_add_votes_to_users_table.php",
+		"/misapp/Personal/Dropbox/Workspaces/incubating-netbeans-10.0/SMSContact/app/Imports/CsvImportValidator.php",
+		"/misapp/Personal/Dropbox/Workspaces/incubating-netbeans-10.0/SMSContact/app/Imports/BlackListsImport.php",
+		"/misapp/Personal/Dropbox/Workspaces/incubating-netbeans-10.0/SMSContact/app/Blacklist.php",
+		"/misapp/Personal/Dropbox/Workspaces/incubating-netbeans-10.0/SMSContact/vendor/laravel/framework/src/Illuminate/Contracts/Support/Arrayable.php",
+		"/misapp/Personal/Dropbox/Workspaces/incubating-netbeans-10.0/SMSContact/vendor/laravel/framework/src/Illuminate/Support/Facades/DB.php",
+		"/misapp/Personal/Dropbox/Workspaces/incubating-netbeans-10.0/SMSContact/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php",
+		"/misapp/Personal/Dropbox/Workspaces/incubating-netbeans-10.0/SMSContact/vendor/maatwebsite/excel/src/Concerns/Importable.php",
+		"/misapp/Personal/Dropbox/Workspaces/incubating-netbeans-10.0/SMSContact/vendor/maatwebsite/excel/src/Exceptions/NoTypeDetectedException.php",
+		"/home/jonathan/Downloads/Admin/forms-general.html",
+		"/misapp/Personal/Dropbox/Workspaces/incubating-netbeans-10.0/SMSContact/app/Exports/BlackListsExport.php",
+		"/home/jonathan/Downloads/Admin/ui-modals.html",
+		"/misapp/Personal/Dropbox/Workspaces/incubating-netbeans-10.0/SMSContact/config/app.php",
+		"/misapp/Personal/Dropbox/Workspaces/incubating-netbeans-10.0/SMSContact/app/Providers/AppServiceProvider.php",
+		"/misapp/Personal/Dropbox/Workspaces/incubating-netbeans-10.0/SMSContact/public/js/admin.js",
+		"/misapp/Personal/Dropbox/Workspaces/incubating-netbeans-10.0/SMSContact/public/js/Spanish.json",
+		"/home/jonathan/Desktop/index.html",
+		"/misapp/Personal/Dropbox/Workspaces/incubating-netbeans-10.0/SMSContact/config/logging.php",
+		"/home/jonathan/Downloads/Admin/sweetalert.html",
+		"/misapp/Personal/Dropbox/Workspaces/incubating-netbeans-10.0/SMSContact/app/Exceptions/Handler.php",
+		"/misapp/Personal/Dropbox/Workspaces/incubating-netbeans-10.0/SMSContact/composer.json",
+		"/misapp/Personal/Dropbox/Workspaces/incubating-netbeans-10.0/SMSContact/public/index.php",
+		"/misapp/Personal/Dropbox/Workspaces/incubating-netbeans-10.0/SMSContact/vendor/autoload.php",
+		"/misapp/Personal/Dropbox/Workspaces/incubating-netbeans-10.0/SMSContact/app/Providers/AuthServiceProvider.php",
+		"/misapp/Personal/Dropbox/Workspaces/incubating-netbeans-10.0/SMSContact/app/Providers/BroadcastServiceProvider.php",
+		"/misapp/Personal/Dropbox/Workspaces/incubating-netbeans-10.0/SMSContact/vendor/yajra/laravel-datatables-oracle/src/Processors/DataProcessor.php",
+		"/misapp/Personal/Dropbox/Workspaces/incubating-netbeans-10.0/SMSContact/vendor/laravel/framework/src/Illuminate/Pagination/LengthAwarePaginator.php",
+		"/misapp/Personal/Dropbox/Workspaces/incubating-netbeans-10.0/SMSContact/vendor/laravel/framework/src/Illuminate/Cache/DatabaseStore.php",
+		"/misapp/Personal/Dropbox/Workspaces/incubating-netbeans-10.0/SMSContact/vendor/yajra/laravel-datatables-oracle/src/Utilities/Request.php",
+		"/misapp/Personal/Dropbox/Workspaces/incubating-netbeans-10.0/SMSContact/app/Providers/RouteServiceProvider.php",
+		"/misapp/Personal/Dropbox/Workspaces/incubating-netbeans-10.0/SMSContact/app/Providers/EventServiceProvider.php",
+		"/misapp/Personal/Dropbox/Workspaces/incubating-netbeans-10.0/SMSContact/app/Http/Kernel.php",
+		"/misapp/Personal/Dropbox/Workspaces/incubating-netbeans-10.0/SMSContact/.env.example",
+		"/misapp/Personal/Dropbox/Workspaces/sublime-text-3/index.html"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"wsse:",
+			"sun",
+			"Firma",
+			"pagada",
+			"Pagada",
+			"SUNAT",
+			"Elimina",
+			"Elimnar",
+			"clou",
+			"info",
+			"-ok",
+			"ok",
+			"Editar",
+			"Pagada",
+			"b_imprimir",
+			"function queue",
+			"dr",
+			"queue",
+			"format",
+			"curInd",
+			"debugg",
+			">=",
+			"sw",
+			"customSwitch1",
+			"moment",
+			"30",
+			"moment",
+			"datetimepicker('viewDate')",
+			"fa ",
+			"console",
+			"datetimepicker",
+			"datetimepicker12",
+			"customSwitch1",
+			"receiver_id",
+			"selSearchReceiver",
+			"btnSearchReceiver",
+			"Sends",
+			"formCreateSend",
+			"validate",
+			"parseMixTags",
+			"pluck",
+			"select",
+			"getSmsTemplateById",
+			"fade",
+			"momen",
+			"jquery",
+			"console",
+			"bysear",
+			"jquery",
+			"address-book",
+			"Agregar Gru",
+			"Agregar Grou",
+			"fa-",
+			"sms_template",
+			"form-navigation",
+			"isTagWhitelisted",
+			"show:",
+			"show",
+			"isTagWhitelisted",
+			"parseMixTags",
+			"message_span",
+			"gender",
+			"getCo",
+			"update",
+			"createSmsTemplate",
+			"unique",
+			"atta",
+			"begin",
+			"where",
+			"wherein",
+			"value:",
+			"value",
+			"findIndex",
+			"isTagDuplicate",
+			"filter",
+			"100",
+			"resize",
+			"isTagDuplicate",
+			"filter",
+			"filter :",
+			"filter:",
+			"isTagDuplicate",
+			"duplicates",
+			"duplicate",
+			"isDuplicate",
+			"filterListItems",
+			"show",
+			"debbuger",
+			"this.dropdown[showSuggestions ? \"show\" : \"hide\"]",
+			"dropdown__item",
+			"item",
+			"this.dropdown[showSuggestions ? \"show\" : \"hide\"]",
+			"});\n",
+			"collapse",
+			"fieldof",
+			"tagify",
+			"tagify__input",
+			"tagify__dropdown",
+			"valid",
+			"validator_create_form",
+			"console",
+			"button",
+			"last",
+			"Contact",
+			"template",
+			"confirmIm",
+			"resumeIm",
+			"//->",
+			"orwhe",
+			"orwe",
+			"contact_group",
+			"getContactGroupById",
+			"delete",
+			"each",
+			".id",
+			"->contact",
+			"();\n",
+			"];\n",
+			"where",
+			"->conta",
+			"max",
+			"o",
+			"route",
+			"Nombre",
+			"valor",
+			"desc",
+			"numero",
+			"addExtraFieldModal"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"SmsTemplate",
+			"404"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "/misapp/Personal/Dropbox/Workspaces/incubating-netbeans-10.0/facturascripts/facturascript.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 265.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
